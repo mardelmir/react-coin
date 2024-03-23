@@ -1,0 +1,24 @@
+body {
+background-color: antiquewhite;
+}
+
+.CryptoList {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cardCrypto {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    border: 1px solid black;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
